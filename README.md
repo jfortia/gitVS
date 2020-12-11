@@ -1,0 +1,2 @@
+# gitVS
+per esborrar 
